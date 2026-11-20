@@ -1,4 +1,4 @@
-# Lung Nodule Segmentation: Inference
+# GRIT: Gradient and Intensity Thresholding CT Lung Nodule Segmentation
 
 Custom 2D V-Net that segments lung nodules on CT. Required input: paths to the CT volumes (`.nii` or `.nii.gz`) and the location of each nodule. Outputs: a binary (0=background, 1=nodule) mask for each nodule. 
 
