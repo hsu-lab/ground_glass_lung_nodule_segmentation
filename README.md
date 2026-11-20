@@ -68,7 +68,7 @@ CUDA_VISIBLE_DEVICES=0 python infer_test_cohort.py \
 ```bash
 CUDA_VISIBLE_DEVICES=0 python infer_test_cohort.py \
     --csv /path/to/nodules.xlsx --mask_col mask_path \
-    --ckpt /path/to/weights/best.pt --out_dir results/
+    --ckpt /path/to/weights/best.pt --out_dir /path/to/output/
 ```
 
 **Quick test on the first 5 CTs:** add `--limit 5`.
