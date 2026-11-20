@@ -15,8 +15,8 @@ Each nodule is processed in these steps:
 ## 1. Installation
 
 ```bash
-git clone https://github.com/<your-username>/<this-repo>.git
-cd <this-repo>
+git clone [https://github.com/<your-username>/<this-repo>.git](https://github.com/hsu-lab/ground_glass_lung_nodule_segmentation.git)
+cd ground_glass_lung_nodule_segmentation
 
 pip install torch numpy pandas scipy SimpleITK tqdm matplotlib openpyxl
 ```
