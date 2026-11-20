@@ -77,7 +77,7 @@ CUDA_VISIBLE_DEVICES=0 python infer_test_cohort.py \
 
 | Option | Default | Description |
 |---|---|---|
-| `--coord_system` | `lps` | `lps`, `ras`, `voxel`, `auto` (see §3b) |
+| `--coord_system` | `lps` | `lps`, `ras`, `voxel`, `auto` |
 | `--coord_cols` | `coordX,coordY,coordZ` | Names of the coordinate columns |
 | `--id_cols` | `pid,study_yr,nodule_id` | Columns used to build each nodule's ID (whichever of these exist) |
 | `--thr` | `0.5` | Probability threshold |
