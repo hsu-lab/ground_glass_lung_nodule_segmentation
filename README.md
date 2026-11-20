@@ -32,7 +32,7 @@ pip install torch numpy pandas scipy SimpleITK tqdm matplotlib openpyxl
 
 Download `best.pt` from Google Drive:
 
-**➡️ [best.pt (Google Drive)]([https://drive.google.com/REPLACE_WITH_YOUR_LINK](https://drive.google.com/file/d/1clzWr8HuNYqReL5wQ8_jqkJXUV5kvRS5/view?usp=share_link)**
+**➡️ [best.pt (Google Drive)](https://drive.google.com/file/d/1clzWr8HuNYqReL5wQ8_jqkJXUV5kvRS5/view?usp=share_link)**
 
 Put it anywhere and pass its path with `--ckpt`.
 
