@@ -1,8 +1,0 @@
-torch>=2.1
-SimpleITK>=2.1
-numpy
-scipy
-pandas
-openpyxl
-tqdm
-matplotlib
